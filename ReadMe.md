@@ -2,6 +2,7 @@
 
 A full-stack AI-powered invoice extraction system that converts invoice images and PDFs into structured JSON data using vision AI — automatically pulling out vendor info, line items, totals, payment terms, and more.
 
+![Period](https://img.shields.io/badge/Dec%202025%20–%20Jan%202026-Project-6366f1?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat-square&logo=python)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.110-009688?style=flat-square&logo=fastapi)
 ![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react)
